@@ -1,0 +1,53 @@
+body {
+}
+.fonce {
+    background-color: #ff00ff;
+}
+.clair {
+    background-color: #00ff00;
+}
+#element2 label {
+    width: 200px;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+
+}
+.visacard, .mastercard {
+    display: none;
+}
+#element2 div div:nth-child(odd) {
+    background-color: #eeeeee;
+}
+input.error {
+    border: 1px solid red;
+}
+label.error {
+    color: #ff0000;
+}
+.square1 {
+    width: 200px;
+    height: 200px;
+    background-color: #ff0000;
+}
+.square11 {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #00ff00;
+}
+#square12 {
+    float: left;
+    width: 70px;
+    height: 30px;
+    background-color: #0000ff;
+}
+#square12.choc {
+    background-color: #ff0000;
+}
+
+.image_th img{
+    width: 100px;
+    height: 70px;
+
+}
